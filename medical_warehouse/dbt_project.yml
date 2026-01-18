@@ -1,0 +1,28 @@
+name: 'medical_warehouse'
+version: '1.0.0'
+config-version: 2
+
+# This name MUST match the one in your profiles.yml
+profile: 'medical_warehouse'
+
+# Where dbt looks for different types of files
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# Configuring how models are built in the database
+models:
+  medical_warehouse:
+    # Everything in models/staging will be built as views (virtual tables)
+    staging:
+      +materialized: view
+    # Everything in models/marts will be built as tables (permanent tables)
+    marts:
+      +materialized: table
