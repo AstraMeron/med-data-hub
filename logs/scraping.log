@@ -1,0 +1,388 @@
+2026-01-18 15:52:34,233 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:52:34,436 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:52:35,683 - INFO - Starting scrape for CheMed123...
+2026-01-18 15:52:35,685 - INFO - Starting scrape for lobelia4cosmetics...
+2026-01-18 15:52:35,686 - INFO - Starting scrape for tikvahpharma...
+2026-01-18 15:52:35,687 - INFO - Starting scrape for DoctorsET...
+2026-01-18 15:52:36,642 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:36,997 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:37,398 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:38,103 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:41,374 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:42,390 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:42,775 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:42,965 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:47,746 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:52:47,747 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:52:47,747 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:52:47,747 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:52:47,748 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:52:47,864 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:52:52,377 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:53,922 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:54,004 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:54,580 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:55,208 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:56,041 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:56,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:52:57,751 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:00,158 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:01,138 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:01,978 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:03,582 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:05,759 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:06,371 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:06,390 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:08,337 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:17,134 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:53:17,135 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:53:17,135 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:53:17,135 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:53:17,135 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:53:17,237 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:53:18,471 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:20,164 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:22,256 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:22,391 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:24,459 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:26,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:26,921 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:28,316 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:30,840 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:32,045 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:32,695 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:33,363 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:34,846 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:37,221 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:38,253 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:39,157 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:39,347 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:40,207 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:42,229 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:44,230 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:44,923 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:45,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:45,848 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:55,576 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:53:55,576 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:53:55,577 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:53:55,577 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:53:55,577 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:53:55,681 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:53:56,248 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:59,019 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:59,216 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:59,392 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:53:59,808 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:02,641 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:03,372 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:05,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:06,091 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:06,878 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:07,645 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:08,660 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:09,821 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:10,373 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:29,089 - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2026-01-18 15:54:29,089 - INFO - Connection closed while receiving data: [WinError 121] The semaphore timeout period has expired
+2026-01-18 15:54:29,090 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:54:29,090 - INFO - <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2026-01-18 15:54:29,090 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:54:29,223 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:54:31,794 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:32,032 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:32,651 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:33,789 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:34,840 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:36,079 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:37,342 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:37,708 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:38,471 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:41,349 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:50,931 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:54:50,931 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:54:50,931 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:54:50,932 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:54:50,932 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:54:51,040 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:54:52,253 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:52,320 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:53,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:54,587 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:55,162 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:55,684 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:57,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:54:59,703 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:03,435 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:04,613 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:06,053 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:07,047 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:09,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:10,495 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:10,745 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:11,094 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:12,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:12,996 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:14,084 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:22,776 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:55:22,776 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:55:22,776 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:55:22,776 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:55:22,776 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:55:22,880 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:55:24,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:25,082 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:26,419 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:27,986 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:28,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:29,281 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:29,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:30,087 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:30,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:31,400 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:33,371 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:34,147 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:34,789 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:34,878 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:37,128 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:38,065 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:39,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:40,191 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:41,344 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:43,179 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:44,608 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:44,701 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:45,410 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:46,477 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:46,782 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:51,447 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:55:51,448 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:55:51,448 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:55:51,448 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:55:51,448 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:55:51,555 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:55:52,406 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:52,556 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:53,025 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:53,625 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:55,752 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:57,653 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:57,854 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:58,682 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:58,877 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:55:59,502 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:00,245 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:02,080 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:03,100 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:05,262 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:05,501 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:07,317 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:09,654 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:10,705 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:11,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:12,035 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:12,924 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:15,287 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:15,831 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:15,848 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:17,634 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:18,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:20,359 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:21,111 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:21,863 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:30,060 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:56:30,060 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:56:30,060 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:56:30,060 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:56:30,061 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:56:30,162 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:56:31,812 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:37,608 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:37,621 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:37,966 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:38,093 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:39,341 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:40,563 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:41,186 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:42,725 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:44,151 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:44,270 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:45,461 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:45,719 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:48,187 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:48,708 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:49,037 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:49,046 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:49,429 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:51,624 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:53,527 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:54,274 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:56:55,205 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:04,055 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:57:04,055 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:57:04,055 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:57:04,055 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:57:04,055 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:57:04,158 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:57:04,325 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:05,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:05,768 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:07,033 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:09,157 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:09,434 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:10,708 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:10,878 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:12,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:14,249 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:14,420 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:15,010 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:16,000 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:17,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:18,082 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:18,355 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:20,217 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:20,971 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:21,363 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:23,255 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:24,356 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:25,583 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:26,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:26,810 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:30,097 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:30,752 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:30,854 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:31,393 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:32,107 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:32,802 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:33,569 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:36,558 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:37,315 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:37,960 - INFO - Successfully scraped 100 messages from tikvahpharma
+2026-01-18 15:57:38,111 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:39,911 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:42,240 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:42,353 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:42,488 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:45,363 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:46,346 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:46,461 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:47,251 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:47,474 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:48,620 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:49,891 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:51,171 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:52,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:56,167 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:57:56,168 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:57:56,168 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:57:56,168 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:57:56,169 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:57:56,276 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:57:57,413 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:58,106 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:58,257 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:57:58,835 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:02,639 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:02,758 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:02,935 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:03,942 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:04,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:05,244 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:06,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:07,067 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:10,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:10,761 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:10,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:11,836 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:12,685 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:15,980 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:16,257 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:17,006 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:17,572 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:18,699 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:19,430 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:20,179 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:28,527 - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2026-01-18 15:58:28,527 - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2026-01-18 15:58:28,528 - INFO - Closing current connection to begin reconnect...
+2026-01-18 15:58:28,528 - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2026-01-18 15:58:28,528 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 15:58:28,632 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 15:58:31,343 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:32,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:32,783 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:34,854 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:36,253 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:38,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:38,724 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:38,986 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:39,858 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:40,667 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:42,520 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:43,626 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:44,400 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:44,661 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:45,413 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:48,519 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:48,622 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:48,685 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:48,969 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:51,562 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:51,569 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:52,540 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:54,409 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:55,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:55,966 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:57,041 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:58:59,370 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:00,465 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:01,458 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:01,575 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:13,240 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:14,045 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:15,440 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:16,060 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:16,657 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:17,028 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:17,725 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:18,471 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:18,914 - INFO - Successfully scraped 76 messages from CheMed123
+2026-01-18 15:59:20,128 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:21,204 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:21,504 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:23,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:23,471 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:24,990 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:25,817 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:27,894 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:27,961 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:29,411 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:29,820 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:30,614 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:31,248 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:32,925 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:33,282 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:34,779 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:35,110 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:35,860 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:37,376 - INFO - Successfully scraped 100 messages from lobelia4cosmetics
+2026-01-18 15:59:37,735 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:40,178 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:41,617 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:51,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:52,850 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:55,283 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 15:59:58,169 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 16:00:01,138 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 16:00:02,791 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 16:00:03,889 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 16:00:23,166 - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2026-01-18 16:00:23,166 - INFO - Connection closed while receiving data: [WinError 121] The semaphore timeout period has expired
+2026-01-18 16:00:23,166 - INFO - Closing current connection to begin reconnect...
+2026-01-18 16:00:23,166 - INFO - <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2026-01-18 16:00:23,167 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2026-01-18 16:00:23,320 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2026-01-18 16:00:24,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 16:00:25,972 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-01-18 16:00:27,957 - INFO - Successfully scraped 100 messages from DoctorsET
+2026-01-18 16:00:27,957 - INFO - Total scraping task finished.
