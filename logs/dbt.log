@@ -1,0 +1,12 @@
+[0m20:39:04.779605 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000232B4895010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000232B59F39D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000232B59F3ED0>]}
+
+
+============================== 20:39:05.021617 | b62d93f8-cd4d-4a70-98ba-d70364cbf0b0 ==============================
+[0m20:39:05.021617 [info ] [MainThread]: Running with dbt=1.11.2
+[0m20:39:05.024327 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\Mer\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'invocation_command': 'dbt init medical_warehouse', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m20:39:05.595258 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Mer\.dbt
+[0m20:39:05.599455 [info ] [MainThread]: A project called medical_warehouse already exists here.
+[0m20:39:05.601609 [debug] [MainThread]: Command `dbt init` succeeded at 20:39:05.601371 after 2.18 seconds
+[0m20:39:05.602518 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000232B59FA190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000232B6A65B50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000232B585ABE0>]}
+[0m20:39:05.603165 [debug] [MainThread]: Flushing usage events
+[0m20:39:08.060433 [debug] [MainThread]: An error was encountered while trying to flush usage events
