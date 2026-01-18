@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 medical_warehouse/logs/
 medical_warehouse/target/
+medical_warehouse/profiles.yml
