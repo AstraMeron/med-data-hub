@@ -1,29 +1,41 @@
 # med-data-hub
 
-# Medical Telegram Data Warehouse
+# Medical Data Hub: End-to-End Orchestrated Pipeline
 
-This project is a robust data pipeline that scrapes medical-related data from Telegram channels, transforms it into a Star Schema, and prepares it for analysis and object detection.
+This repository contains a production-ready data engineering pipeline developed for the 10 Academy KAIM training. It automates the extraction, transformation, and enrichment of medical data from Ethiopian Telegram channels.
 
-## Project Structure
-- `scripts/`: Python scripts for data loading and ingestion.
-- `medical_warehouse/`: dbt project containing SQL models and tests.
-  - `models/staging/`: Initial data cleaning and type casting.
-  - `models/marts/`: Dimensional modeling (Fact and Dimension tables).
-- `data/`: Local data lake for raw JSON and image files.
+## 🏗 System Architecture
+The pipeline follows a structured flow managed by **Dagster**:
+1.  **Extraction**: Scrapes messages and images from Telegram using Telethon.
+2.  **Ingestion**: Loads raw data into a PostgreSQL `raw` schema. It uses an "append" strategy to maintain the stability of dependent dbt views.
+3.  **Enrichment**: Executes YOLOv8 object detection on scraped images and stores results in the database.
+4.  **Transformation**: Utilizes **dbt** to create staging views and analytical marts (Fact/Dimension tables).
 
-## Tech Stack
-- **Database:** PostgreSQL
-- **Transformation:** dbt (Data Build Tool)
-- **Language:** Python 3.x
-- **Orchestration:** Git/GitHub
 
-## Getting Started
-1. Install dependencies: `pip install -r requirements.txt`
-2. Set up your `.env` with database credentials.
-3. Run the scraper (Task 1).
-4. Load raw data: `python scripts/load_to_postgres.py`
-5. Run transformations: 
-   ```powershell
-   cd medical_warehouse
-   dbt run --profiles-dir .
-   dbt test --profiles-dir .
+
+## 📁 Project Structure
+* `src/scraper.py`: Telethon-based scraper for Task 1.
+* `scripts/load_to_postgres.py`: Python script for Task 2 database ingestion.
+* `scripts/load_detections.py`: Ingests YOLOv8 results for Task 3.
+* `medical_warehouse/`: dbt project for Task 4 transformations.
+* `orchestration/pipeline.py`: Dagster job, ops, and daily schedule definitions for Task 5.
+
+## 🚀 Getting Started
+
+### 1. Installation
+```bash
+pip install dagster dagster-webserver dbt-postgres telethon pandas sqlalchemy psycopg2
+```
+
+### 2. Running the Orchestrator
+To launch the pipeline and access the UI at [http://localhost:3000](http://localhost:3000):
+
+```bash
+dagster dev -f orchestration/pipeline.py
+```
+
+## 📅 Scheduling & Automation
+
+* **Schedule**: The pipeline is configured to run **daily** at midnight (`00:00`) Africa/Addis_Ababa time.
+* **Order**: Uses `In(Nothing)` to ensure strict sequential execution (Scrape → Load → Detect → Transform).
+* **Observability**: Centralized logging and error tracking via the Dagster UI.
