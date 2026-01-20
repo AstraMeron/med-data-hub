@@ -6,3 +6,9 @@ __pycache__/
 medical_warehouse/logs/
 medical_warehouse/target/
 medical_warehouse/profiles.yml
+
+
+data/detection_results.csv
+data/raw/images/
+*.pt
+yolov8n.pt
