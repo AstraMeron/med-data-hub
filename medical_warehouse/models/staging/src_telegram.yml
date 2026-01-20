@@ -5,3 +5,7 @@ sources:
     schema: raw
     tables:
       - name: telegram_messages
+        description: "Raw telegram data"
+      
+      - name: yolo_detections
+        description: "Raw output from Task 3 YOLO object detection script."
