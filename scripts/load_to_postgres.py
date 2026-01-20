@@ -51,7 +51,7 @@ def load_raw_data():
         conn.commit()
     
     # Load into the 'raw' schema as 'telegram_messages'
-    df.to_sql('telegram_messages', engine, schema='raw', if_exists='replace', index=False)
+    df.to_sql('telegram_messages', engine, schema='raw', if_exists='append', index=False)  
     print(f"Successfully loaded {len(df)} rows into raw.telegram_messages!")
 
 if __name__ == "__main__":
